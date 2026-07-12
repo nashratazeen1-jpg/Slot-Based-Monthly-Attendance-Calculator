@@ -11,7 +11,7 @@ In this Mini Project, it is Calculator Developed for **Student's Personal Use** 
 # 🚀 Keypoints Learned: 
 1. Implementation of Ideas's into Useful Mini Projects.
 2. Calculation of Generating Percentage.
-3. Importance/Usage of Python's **time** Module.
+3. Usage of Python's **time** Module.
 4. Improved Basic Proficiency in Python.
 
 
