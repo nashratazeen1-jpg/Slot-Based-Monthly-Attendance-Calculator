@@ -13,3 +13,5 @@ In this Mini Project, it is Calculator Developed for **Student's Personal Use** 
 2. Calculation of Generating Percentage.
 3. Usage of Python's **time** Module.
 4. Improved Basic Proficiency in Python.
+
+
